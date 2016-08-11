@@ -10,6 +10,8 @@ Here's the alphabet (read from upper right going left):
 
 ![Alphabet](https://github.com/jhadjar/Language-Acquisition/blob/master/Hebrew/Data/alphabet.gif)
 
+&nbsp;
+
 A few things you can notice:
 
 * There are only 22 letters.
