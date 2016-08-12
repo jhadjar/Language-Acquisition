@@ -8,7 +8,7 @@ Here's the alphabet (read from upper right going left):
 
 &nbsp;
 
-![Alphabet](https://github.com/jhadjar/Language-Acquisition/blob/master/Hebrew/Data/alphabet.gif)
+![Alphabet](https://github.com/jhadjar/Language-Acquisition/blob/master/Hebrew/Deck_500/alphabet.gif)
 
 &nbsp;
 
