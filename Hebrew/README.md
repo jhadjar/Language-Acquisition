@@ -20,3 +20,7 @@ A few things you can notice:
 * Here's a great [Anki deck](https://ankiweb.net/shared/info/504358078) with audio from TeachMeHebrew.com.
 * Written from right to left (just like Arabic).
 
+## Dictionary
+
+* [Morfix](http://www.morfix.co.il/): The best Hebrew dictionary I've found to exist.
+* [Forvo](http://forvo.com/): Check pronunciation. Just enter the word in  Hebrew an get its translations and pronunciation.
