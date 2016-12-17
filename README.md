@@ -7,7 +7,7 @@ Repo to test tracking language acquisition efforts using GitHub. It might be use
 
 * [Russian](https://github.com/jhadjar/Language-Acquisition/tree/master/Russian)
 
-* [Hebrew](https://github.com/jhadjar/Language-Acquisition/tree/master/Hebrew) (as an Arabic speaker, there's an advantage to learn that language)
+* [Hebrew](https://github.com/jhadjar/Language-Acquisition/tree/master/Hebrew) (Hebrew is easier if you speak Arabic)
 
 * Spanish: I'm done with Duo's Spanish tree. As a French speaker, reading comprehension is pretty good pero no puedo articular ideas.
 
