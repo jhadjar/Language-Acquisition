@@ -24,3 +24,6 @@ A few things you can notice:
 
 * [Morfix](http://www.morfix.co.il/): The best Hebrew dictionary I've found to exist.
 * [Forvo](http://forvo.com/): Check pronunciation. Just enter the word in  Hebrew an get its translations and pronunciation.
+
+## Words:
+* TeachMeHebrew has a deck of 500 words. I'm attempting to replace transliteration and translation with images. Here's my (incomplete) [version](https://github.com/jhadjar/Language-Acquisition/tree/master/Hebrew/Deck_500)
